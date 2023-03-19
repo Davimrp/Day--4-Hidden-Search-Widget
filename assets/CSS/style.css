@@ -57,3 +57,11 @@ button i{
     width: 150px;
     background-color: white;
 }
+
+@media (max-width: 375px) {
+    input{
+        position: absolute;
+        top: 422px;
+        right: 162px;
+    }
+}

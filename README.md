@@ -6,7 +6,7 @@
 <hr>
 
 ### ✍️ Funcionalidades
- - Elementos que aparecem e somem ao rolar do scroll
+ - Barra de pesquisa que aparece e/ou oculta ao clicar
 
 <hr>
 
